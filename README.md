@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋
+
+# I'm a University student currently studying Computer Science and majoring in Software Engineering.
 
 <!--
 **conor-wheatley/conor-wheatley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
